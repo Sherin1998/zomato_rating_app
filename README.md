@@ -27,7 +27,20 @@ This app predicts the rating for a particular restaurant using data obtained fro
 
 ## Installation
 
-Describe how to install and set up your application, including any prerequisites.
+## Installation
+
+1. Clone the repository using the following command:
+
+   ```sh
+   git clone https://github.com/Sherin1998/zomato_rating_app.git
+Navigate to the project directory:
+cd zomato_rating_app
+Install the required dependencies:
+
+sh
+Copy code
+pip install -r requirements.txt
+
 
 ## Usage/Examples
 
