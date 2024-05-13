@@ -45,7 +45,7 @@ Install the required dependencies:
 
 Run the application:
 
-'''sh
+  ```sh
    streamlit run app.py
 
 Access the application in your web browser at http://localhost:5001
