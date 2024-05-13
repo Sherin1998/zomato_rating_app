@@ -35,12 +35,20 @@ This app predicts the rating for a particular restaurant using data obtained fro
    git clone https://github.com/Sherin1998/zomato_rating_app.git
 Navigate to the project directory:
 cd zomato_rating_app
+Set up the environment variables.
 Install the required dependencies:
 
-sh
-Copy code
-pip install -r requirements.txt
 
+   ```sh
+     pip install -r requirements.txt
+
+
+Run the application:
+
+'''sh
+   streamlit run app.py
+
+Access the application in your web browser at http://localhost:5001
 
 ## Usage/Examples
 
