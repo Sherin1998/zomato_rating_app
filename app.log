@@ -1,0 +1,1 @@
+2024-05-03 16:50:39,958 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Jeevan+Bhima+Nagar&format=json&limit=1
