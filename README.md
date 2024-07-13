@@ -65,42 +65,13 @@ Provide instructions on how to deploy your application.
 ## Running Tests
 
 Describe how to run tests for your application.
+![Screenshot 2024-07-13 184921](https://github.com/user-attachments/assets/2c777699-28bc-418d-8547-362a08c875b7)
 
 ## Environment Variables
 
 List and describe the environment variables used in your application.
 
-## API Reference
 
-If your application has an API, provide documentation for it here.
-
-## Features
-
-List the features of your application.
-
-## Optimizations
-
-Describe any optimizations implemented in your application.
-
-## Roadmap
-
-Outline the future development plans for your application.
-
-## Contributing
-
-Provide guidelines for contributing to your project.
-
-## Documentation
-
-Link to the full documentation for your application.
-
-## Support
-
-Provide support information for users of your application.
-
-## FAQ
-
-Include frequently asked questions and their answers.
 
 ## License
 
