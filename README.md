@@ -47,10 +47,14 @@ Access the application in your web browser at http://localhost:5001
 ## Usage/Examples
 
 Provide examples of how to use your application.
+![App Screenshot](https://github.com/Sherin1998/zomato_rating_app/raw/main/Screenshot%202024-07-13%20184921.png)
+
 
 ## Demo
 
 Include a link or GIF to a demo of your application.
+![Alt text](https://github.com/Sherin1998/zomato_rating_app/raw/main/Screenshot%202024-07-13%20184921.png)
+
 
 ## Deployment
 
