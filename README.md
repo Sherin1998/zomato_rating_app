@@ -1,8 +1,7 @@
 # zomato_rating_app
 This classification prediction end to end project uses Zomato data from Banglore city and predicts the rating for a particular restaurant for specific cuisine type.
 
-Provide examples of how to use your application.
-![App Screenshot](https://github.com/Sherin1998/zomato_rating_app/raw/main/Screenshot%202024-07-13%20184921.png)
+
 
 # Zomato Rating Prediction App
 
