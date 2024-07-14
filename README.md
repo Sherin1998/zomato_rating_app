@@ -19,6 +19,8 @@ This app predicts the rating for a particular restaurant using data obtained fro
 - [Features](#features)
 
 
+Provide examples of how to use your application.
+![App Screenshot](https://github.com/Sherin1998/zomato_rating_app/raw/main/Screenshot%202024-07-13%20184921.png)
 
 ## Installation
 download the code or clone the repository
@@ -48,8 +50,6 @@ Access the application in your web browser at http://localhost:5001
 
 ## Usage/Examples
 
-Provide examples of how to use your application.
-![App Screenshot](https://github.com/Sherin1998/zomato_rating_app/raw/main/Screenshot%202024-07-13%20184921.png)
 
 
 The following dependencies are required to run the project:
