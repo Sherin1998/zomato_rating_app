@@ -16,17 +16,10 @@ This app predicts the rating for a particular restaurant using data obtained fro
 - [Environment Variables](#environment-variables)
 - [API Reference](#api-reference)
 - [Features](#features)
-- [Optimizations](#optimizations)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [Documentation](#documentation)
-- [Support](#support)
-- [FAQ](#faq)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Installation
-
+download the code or clone the repository
 ## Installation
 
 1. Clone the repository using the following command:
@@ -66,7 +59,6 @@ Provide instructions on how to deploy your application.
 ## Running Tests
 
 Describe how to run tests for your application.
-![Screenshot 2024-07-13 184921](https://github.com/user-attachments/assets/d0279517-354b-49ec-840f-efcb87780174)
 
 
 
@@ -76,9 +68,7 @@ List and describe the environment variables used in your application.
 
 
 
-## License
 
-Include information about the license for your application.
 
 ## Acknowledgements
 
