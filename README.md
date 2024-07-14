@@ -66,7 +66,8 @@ Provide instructions on how to deploy your application.
 ## Running Tests
 
 Describe how to run tests for your application.
-![Example Image](https://github.com/yourusername/yourrepo/blob/main/images/example.png)
+![Screenshot 2024-07-13 184921](https://github.com/user-attachments/assets/d0279517-354b-49ec-840f-efcb87780174)
+
 
 
 ## Environment Variables
