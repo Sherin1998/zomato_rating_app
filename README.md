@@ -66,7 +66,8 @@ Provide instructions on how to deploy your application.
 ## Running Tests
 
 Describe how to run tests for your application.
-[![Screenshot 2024-07-13 184921](https://github.com/user-attachments/assets/62cd8edb-8d01-4066-ab69-eae5d52ecd24)](https://github.com/Sherin1998/zomato_rating_app/blob/main/Screenshot%202024-07-13%20184921.png)
+![Example Image](https://github.com/yourusername/yourrepo/blob/main/images/example.png)
+
 
 ## Environment Variables
 
