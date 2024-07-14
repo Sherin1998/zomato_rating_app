@@ -52,18 +52,6 @@ Provide examples of how to use your application.
 ![App Screenshot](https://github.com/Sherin1998/zomato_rating_app/raw/main/Screenshot%202024-07-13%20184921.png)
 
 
-
-
-## Deployment
-
-Provide instructions on how to deploy your application.
-Enter the necessary input parameters for the app and after click on compute rate to predict the rating for the particular restaurant
-
-## Running Tests
-
-Describe how to run tests for your application.
-
-
 The following dependencies are required to run the project:
 
 - **Streamlit**: For creating the web application interface.
@@ -81,9 +69,10 @@ Alternatively, you can install all the dependencies using the provided `requirem
 ```sh
 pip install -r requirements.txt
 
+## Deployment
 
-
-
+Provide instructions on how to deploy your application.
+Enter the necessary input parameters for the app and after click on compute rate to predict the rating for the particular restaurant
 
 ## Acknowledgements
 
